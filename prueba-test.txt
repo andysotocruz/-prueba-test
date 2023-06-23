@@ -1,3 +1,6 @@
 Nombre: José Andres Soto Cruz.
 Edad: 26 años.
 Color favorito: rojo.
+Ocupación: desarrollador junior.
+Cancion favorita: take control - bizarre contact.
+Comida favorita: tacos.
