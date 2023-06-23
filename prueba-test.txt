@@ -1,0 +1,3 @@
+Nombre: José Andres Soto Cruz.
+Edad: 26 años.
+Color favorito: rojo.
